@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @K0mes
+- 👋 Hi, I’m Andrew
 - 👀 I’m interested in all :D
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on -----
