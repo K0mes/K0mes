@@ -1,5 +1,6 @@
 - Andrew
 - css/html/c++/python/kotlin/java
+- Blender (mostly hard-surface), game-ready
 
 <!---
 K0mes/K0mes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
